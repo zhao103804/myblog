@@ -6,11 +6,11 @@
 首先在CentOS操作系统中/etc/yum.repos.d/目录下添加 MariaDB的YUM配置文件MariaDB.repo文件。  
 <code>vi /etc/yum.repos.d/MariaDB.repo</code>  
 在该文件中添加以下内容保存：  
-<code>[mariadb]  
+```[mariadb]  
 name = MariaDB  
 baseurl = http://yum.mariadb.org/10.2/centos7-amd64  
 gpgkey=https://yum.mariadb.org/RPM-GPG-KEY-MariaDB  
-gpgcheck=1</code>  
+gpgcheck=1```
 
 ## 第二步：安装 MariaDB
 

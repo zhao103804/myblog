@@ -1,5 +1,5 @@
 # JAVA
   学习记录
 # 运维
-	- [MariaDB](oper/MariaDB.md)
+	- [MariaDB](https://github.com/zhao103804/myblog/blob/master/oper/MariaDB.md) 
 # 其他
